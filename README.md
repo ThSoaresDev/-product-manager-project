@@ -1,1 +1,1 @@
-# -product-manager-project
+# product-manager-project
