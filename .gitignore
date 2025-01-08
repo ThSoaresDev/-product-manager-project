@@ -1,0 +1,45 @@
+# Ignore arquivos de configuração do Visual Studio
+.vs/
+.vscode/
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Crash Reports
+CrashDumps/
+
+# Configuração de depuração
+launchSettings.json
+
+# Arquivos gerados por pacotes e dependências
+*.ide-helper.php
+*.d.ts
+
+# IDE específico para Rider
+.idea/
+*.iml
+
+# Arquivos temporários do sistema
+*.DS_Store
+Thumbs.db
+
+# Arquivos de cache
+*.vsidx
+*.swp
+*.bak
+*.tmp
+
+# Configuração de pacotes gerados
+node_modules/
